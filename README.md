@@ -1,4 +1,4 @@
-Está es una hoja de vida de mi persona.
+Está es una practica de estilos en css.
 
 Este programa fue desarrollado por 
 Kevin Felipe Vargas Farfán.
